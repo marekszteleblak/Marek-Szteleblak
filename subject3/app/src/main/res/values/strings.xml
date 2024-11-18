@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">subject 3</string>
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.49</item>
+        <item>$0.89</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Freash peaches from Gorgia</item>
+        <item>Freash salad tomatoes from Ohio</item>
+        <item>Fresh squash from Washington</item>
+    </string-array>
+</resources>
