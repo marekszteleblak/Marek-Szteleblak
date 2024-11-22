@@ -10,13 +10,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Final2"
+        android:theme="@style/Theme.Taskmanagerapp"
         tools:targetApi="31">
         <activity
-            android:name=".Form_Activity"
+            android:name=".EditTaskActivity"
             android:exported="false" />
         <activity
-            android:name=".View_Activity"
+            android:name=".TaskListActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
